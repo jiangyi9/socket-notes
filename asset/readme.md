@@ -1,0 +1,1 @@
+# This folder is used to store diagrams which used in **readme.md** files in following sections
